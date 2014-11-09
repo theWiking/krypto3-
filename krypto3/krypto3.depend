@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415535814 source:c:\users\the wiking\documents\github\krypto3-\krypto3\krypto3.cpp
+	<iostream>
+	<cmath>
+
